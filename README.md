@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**PetruczaRuben/PetruczaRuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi there! I'm Ruben Petrucza</h3>
+<p align="center">
+  <a href="https://rubenpetrucza.netlify.app/">Website</a> •
+  <a href="https://www.linkedin.com/in/ruben-petrucza/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
+😶‍🌫️ I'm a frontend developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me on CodeWars geeking about the most performant competetive coding solutions.
+
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on React and Vanilla JS projects.
+- 💬 Ask me about: JavaScript, React.js, CodeWars, Responsive Design
+- 📫 How to reach me: petrucza.ruben@gmail.com
+- ⚡ Not so fun fact: I'm a strong advocate on a balanced and healthy lifestyle, I like to spend time in nature and workout 
+
