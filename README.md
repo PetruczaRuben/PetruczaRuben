@@ -1,7 +1,7 @@
 
-<h3 align="center">👋 Hi there! I'm Ruben Petrucza</h3>
+<h3 align="center">Hello World, I'm Ruben Petrucza!👋 </h3>
 <p align="center">
-  <a href="https://rubenpetrucza.netlify.app/">Website</a> •
+  <a href="https://rubenpetrucza.netlify.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ruben-petrucza/">LinkedIn</a>
 </p>
 
