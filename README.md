@@ -6,7 +6,7 @@
 </p>
 
 ---
-😶‍🌫️ I'm a frontend developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+💻 I'm a frontend developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
 When I'm not coding, you can find me on CodeWars geeking about the most performant competetive coding solutions.
 
