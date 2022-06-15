@@ -16,7 +16,7 @@ When I'm not coding, you can find me on CodeWars geeking about the most performa
 - 📫 How to reach me: petrucza.ruben@gmail.com
 - ⚡ Not so fun fact: I'm a strong advocate on a balanced and healthy lifestyle, I like to spend time in nature and workout 
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
